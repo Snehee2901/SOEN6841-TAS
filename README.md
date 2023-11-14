@@ -39,7 +39,3 @@ Summarize the key findings, emphasizing the importance of ongoing conversations 
 ## References
 
 - [ScienceDirect Article](https://www.sciencedirect.com/science/article/pii/S1048984323000462)
-
----
-
-Feel free to customize this README.md template based on the specific details of your case study. Add or remove sections as needed to best suit your document structure and content.
